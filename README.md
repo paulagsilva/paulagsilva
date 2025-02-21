@@ -11,7 +11,7 @@
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=kotlin,git,vscode,docker,github,linux,postman,mongodb,postgres,python,linkedin,instagram,redis,rabbitmq,aws,gcp,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=kotlin,git,vscode,github,linux,postman,mongodb,postgres,python,aws,gcp,docker,kubernetes" />
 </a>
   <br />
 
